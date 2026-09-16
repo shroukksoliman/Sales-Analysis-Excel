@@ -27,4 +27,4 @@ and profit insights.
 
 ## Dashboard Preview
 
-![Sales Dashboard](Sales_Dashboard.png)
+![Sales Dashboard](mini%20project%20sales%20dashboard.png)
